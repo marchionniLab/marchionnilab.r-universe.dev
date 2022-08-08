@@ -1,0 +1,22 @@
+[
+  {
+    "package": "covid19census",
+    "url": "https://github.com/marchionniLab/covid19census"
+  },
+  {
+    "package": "RTopper",
+    "url": "https://github.com/marchionniLab/RTopper"
+  },
+  {
+    "package": "divergence",
+    "url": "https://github.com/marchionniLab/divergence"
+  },
+  {
+    "package": "lpcover",
+    "url": "https://github.com/marchionniLab/lpcover"
+  },
+  {
+    "package": "switchBox",
+    "url": "https://github.com/marchionniLab/switch"
+  }
+]
