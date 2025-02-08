@@ -18,9 +18,5 @@
   {
     "package": "switchBox",
     "url": "https://github.com/marchionniLab/switchBox"
-  },
-  {
-    "package": "ABCutilities",
-    "url": "https://github.com/marchionniLab/ABCutilities"
   }
 ]
